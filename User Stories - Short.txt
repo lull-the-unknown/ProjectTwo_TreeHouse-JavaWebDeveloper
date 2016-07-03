@@ -1,0 +1,24 @@
+Minimum Required
+------------------
+
+Organizer
+ - create new team
+ - add players
+ - remove players
+ - teams listed alphabetically
+ - players listed alphabetically with stats
+ - view team report, players grouped by height
+ - league balance report showing total count of experienced players vs. total count of inexperienced players
+
+Coach
+ - print team roster
+
+
+Extra Credit
+--------------
+
+Administrator
+ - not allowed to create more teams than there are players
+ - players available for adding to team should not include players already added to a team
+ - team report should show average experience level
+ - League Balance Report should include count of players for each height
